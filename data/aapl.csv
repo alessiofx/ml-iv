@@ -1,3 +1,3 @@
-data,max,value,min
+date,open,high,low,close,volume
 20240527T,178.12,135.51,107.0
 20240528T,178.12,192.51,192.0
